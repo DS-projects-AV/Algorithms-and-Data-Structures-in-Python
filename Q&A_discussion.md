@@ -15,3 +15,6 @@ How does this work ?
 3. Stacks acan be implemented either using arrays or Linked lists. In case of arrays, when element is inserted/deleted ( pushed/popped), it is done at the end of the array. Whereas in case of linked list, element inserted/deleted is at the beginning of the linked list
 4.  ![image](https://user-images.githubusercontent.com/90809823/147175376-21a640c5-7edf-456d-aec2-ac5e9f964788.png)
 Operations means push and pop ?
+
+5. ![image](https://user-images.githubusercontent.com/90809823/147271568-ea17f7f5-ea57-43c2-aa94-aa2b9fb6c7bd.png)
+
