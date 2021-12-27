@@ -17,4 +17,4 @@ How does this work ?
 Operations means push and pop ?
 
 5. ![image](https://user-images.githubusercontent.com/90809823/147271568-ea17f7f5-ea57-43c2-aa94-aa2b9fb6c7bd.png)
-
+6. Stacks can store individual items in its cells or even a word/a double or triple digit number in its cells
