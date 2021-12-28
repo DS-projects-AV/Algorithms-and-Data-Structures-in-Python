@@ -20,4 +20,8 @@ Operations means push and pop ?
 6. Stacks can store individual items in its cells or even a word/a double or triple digit number in its cells
  ![image](https://user-images.githubusercontent.com/90809823/147512497-7efe9f50-de4b-4648-8011-5da589796907.png)
  7. When pushing numbers to Stack, use stack.append(1), there is no keyword like .push,  for strings you may use stack.append('a')
+ 8. In the Stack implementation using arrays, when an element from stack is removed, it is removed from the right end of the stack, Whereas in Queue implementation using arrays, an element is deleted from the beginning
+ 9. ![image](https://user-images.githubusercontent.com/90809823/147526520-997f5ed7-51fc-4191-914a-95970ca6fada.png)
+ 10. ![image](https://user-images.githubusercontent.com/90809823/147526551-94a2850f-ef1c-48a3-9b69-44e27aa79791.png)
+
 
