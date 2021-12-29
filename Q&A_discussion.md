@@ -28,6 +28,8 @@ Operations means push and pop ?
  Even in Linked representation of Queues, the element at the left side is removed, whereas if we observe here, the first element in the queue appears to be 5
  ![image](https://user-images.githubusercontent.com/90809823/147623450-7fd77c05-db7b-49ee-8f9f-652109b2ef33.png)
  Answer to this : The first element to be inserted in both array case and LL case are 12 & 9, hence 12 and 9 are the first elements that are removed from the queue , First in First Out ?
+ 12. ![image](https://user-images.githubusercontent.com/90809823/147623704-5de27b5f-45c7-44d5-9c96-49cb26e22ff7.png)
+This is wrong ? This is stack because a is inserted first and c is th elast one to be inserted and c is the first element to be popped out. In queues, a must be removed first right ?
 
 
 
