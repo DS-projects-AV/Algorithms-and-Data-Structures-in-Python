@@ -27,7 +27,7 @@ Operations means push and pop ?
  if the element is inserted at the right side or you can call it append function, the first element is still 45 right? then deletion is from right to left direction ? 
  Even in Linked representation of Queues, the element at the left side is removed, whereas if we observe here, the first element in the queue appears to be 5
  ![image](https://user-images.githubusercontent.com/90809823/147623450-7fd77c05-db7b-49ee-8f9f-652109b2ef33.png)
- Answer to this : The first element to be inserted in both array case and LL case are 12 & 9, hence 12 and 9 are the first elements that are removed from the queue , First in First Out
+ Answer to this : The first element to be inserted in both array case and LL case are 12 & 9, hence 12 and 9 are the first elements that are removed from the queue , First in First Out ?
 
 
 
