@@ -32,6 +32,8 @@ Operations means push and pop ?
 This is wrong ? This is stack because a is inserted first and c is the last one to be inserted and c is the first element to be popped out. In queues, a must be removed first right ?
 13. Queue - PUSH - Append , POP - predelete
 14. Stack - PUSH - Prepend, POP - predelete
-
+15. ![image](https://user-images.githubusercontent.com/90809823/147625524-a1fddb24-a734-4d14-af9c-d955ac9d4952.png)
+16. ![image](https://user-images.githubusercontent.com/90809823/147625622-8c33df2d-0444-4f0d-a17d-9697215f38e9.png)
+Dequeues are implemented usig circular doubly linked list
 
 
