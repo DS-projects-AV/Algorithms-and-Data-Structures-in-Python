@@ -30,6 +30,8 @@ Operations means push and pop ?
  Answer to this : The first element to be inserted in both array case and LL case are 12 & 9, hence 12 and 9 are the first elements that are removed from the queue , First in First Out ?
  12. ![image](https://user-images.githubusercontent.com/90809823/147623704-5de27b5f-45c7-44d5-9c96-49cb26e22ff7.png)
 This is wrong ? This is stack because a is inserted first and c is th elast one to be inserted and c is the first element to be popped out. In queues, a must be removed first right ?
+13. Queue - PUSH - Append , POP - predelete
+14. Stack - PUSH - Prepend, POP - predelete
 
 
 
