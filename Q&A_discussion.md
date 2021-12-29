@@ -23,5 +23,11 @@ Operations means push and pop ?
  8. In the Stack implementation using arrays, when an element from stack is removed, it is removed from the right end of the stack, Whereas in Queue implementation using arrays, an element is deleted from the beginning
  9. ![image](https://user-images.githubusercontent.com/90809823/147526520-997f5ed7-51fc-4191-914a-95970ca6fada.png)
  10. ![image](https://user-images.githubusercontent.com/90809823/147526551-94a2850f-ef1c-48a3-9b69-44e27aa79791.png)
+ 11. ![image](https://user-images.githubusercontent.com/90809823/147623284-52870742-91d9-4a87-bda2-6f5cf2e24ad1.png)
+ if the element is inserted at the right side or you can call it append function, the first element is still 45 right? then deletion is from right to left direction ? 
+ Even in Linked representation of Queues, the element at the left side is removed, whereas if we observe here, the first element in the queue appears to be 5
+ ![image](https://user-images.githubusercontent.com/90809823/147623450-7fd77c05-db7b-49ee-8f9f-652109b2ef33.png)
+ Answer to this : The first element to be inserted in both array case and LL case are 12 & 9, hence 12 and 9 are the first elements that are removed from the queue , First in First Out
+
 
 
