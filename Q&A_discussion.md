@@ -34,5 +34,7 @@ This is wrong ? This is stack because a is inserted first and c is the last one 
 14. Stack - PUSH - Prepend, POP - predelete
 15. ![image](https://user-images.githubusercontent.com/90809823/147625524-a1fddb24-a734-4d14-af9c-d955ac9d4952.png)
 Dequeues are implemented using circular doubly linked list
+16. ![image](https://user-images.githubusercontent.com/90809823/147898351-7c929f10-3d32-475a-9c82-48f721fa3fe3.png)
+
 
 
