@@ -49,5 +49,7 @@ Are these correct ?
 Unlike case 2 where only if one child is present, replace it with node to be deleted and remove the desired node. In case 3 as seen in above picture, replace the node to be deleted with the largest value in its left sub-tree. In this process, when you replace the nodes, the child node is itself repeated in both the parent's position and it's position.
 22. ![image](https://user-images.githubusercontent.com/90809823/148095227-eac2172f-7cc6-44e7-9bd5-0b2846332c9e.png)
 for this tree, ![image](https://user-images.githubusercontent.com/90809823/148095328-986e9971-b04c-417d-836c-c064e623c5f7.png) , the no. of nodes in right subtrees is 5 right? It is not left sub-trees
+23. ![image](https://user-images.githubusercontent.com/90809823/148101282-bcdeb8df-2b07-434a-9573-f0f39e07ecd7.png)
+
 
 
