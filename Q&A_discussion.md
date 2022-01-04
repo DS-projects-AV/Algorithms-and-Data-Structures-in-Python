@@ -36,11 +36,11 @@ This is wrong ? This is stack because a is inserted first and c is the last one 
 Dequeues are implemented using circular doubly linked list
 16. ![image](https://user-images.githubusercontent.com/90809823/147898351-7c929f10-3d32-475a-9c82-48f721fa3fe3.png)
 17. Trees are Non-linear data structures. In Pre-order traversal, root node is accessed first, then the left subtree is accesssed with left nodes in sequence followed by right nodes in sequence, and then at the end right sub tree is accesses, even here left nodes are accessed first and then right nodes are accessed. If there are no nodes in its left branch, then the right nodes are accessed before moving on to the next left node ? 
-18. ![image](https://user-images.githubusercontent.com/90809823/147992419-a5222d53-4671-45b3-b23e-a01d795fc7d2.png)
+18. Pre-Order- ![image](https://user-images.githubusercontent.com/90809823/147992419-a5222d53-4671-45b3-b23e-a01d795fc7d2.png)
 Why is there a repetition of node D while accessing ? ![image](https://user-images.githubusercontent.com/90809823/147992453-334d4220-9df1-494f-b7a5-04934b32bb4e.png)
+19. In-Order- For the above problem, my solution is B, D, A, E, H, C, G, F, I. Actual solution is : ![image](https://user-images.githubusercontent.com/90809823/147993455-68108bc9-2500-4437-abd4-22d4f5b38afb.png)
+Even in the right sub-tree, same rule of in-order traversal, first left, second root and then right node should be accessed right ?
 
-
-19. 
 
 
 
