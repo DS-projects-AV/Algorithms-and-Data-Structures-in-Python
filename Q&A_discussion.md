@@ -45,6 +45,8 @@ Pre - Order : 50, 17, 12, 9, 14, 23, 72, 54, 67, 76
 In - Order : 9, 12, 14, 17, 23, 50, 54, 67, 72, 76
 Post - Order : 9, 14, 23, 17, 67, 54, 76, 72, 50
 Are these correct ?
+21. ![image](https://user-images.githubusercontent.com/90809823/148093853-84fd438a-462a-4f83-8251-964fe84e78d3.png)
+Unlike case 2 where only if one child is present, replace it with node to be deleted and remove the desired node. In case 3 as seen in above picture, replace the node to be deleted with the largest value in its left sub-tree. In this process, when you replace the nodes, the child node is itself repeated in both the parent's position and it's position.
 
 
 
