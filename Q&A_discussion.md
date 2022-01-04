@@ -39,7 +39,12 @@ Dequeues are implemented using circular doubly linked list
 18. Pre-Order- ![image](https://user-images.githubusercontent.com/90809823/147992419-a5222d53-4671-45b3-b23e-a01d795fc7d2.png)
 Why is there a repetition of node D while accessing ? ![image](https://user-images.githubusercontent.com/90809823/147992453-334d4220-9df1-494f-b7a5-04934b32bb4e.png)
 19. In-Order- For the above problem, my solution is B, D, A, E, H, C, G, F, I. Actual solution is : ![image](https://user-images.githubusercontent.com/90809823/147993455-68108bc9-2500-4437-abd4-22d4f5b38afb.png)
-Even in the right sub-tree, same rule of in-order traversal, first left, second root and then right node should be accessed right ?
+Even in the right sub-tree, same rule of in-order traversal, first left, second root and then right node should be accessed right ? Order of F and I are also interchanged?
+20. ![image](https://user-images.githubusercontent.com/90809823/147994087-8b92da89-2bc5-40fa-967e-fac58974d4e4.png)
+Pre - Order : 50, 17, 12, 9, 14, 23, 72, 54, 67, 76
+In - Order : 9, 12, 14, 17, 23, 50, 54, 67, 72, 76
+Post - Order : 9, 14, 23, 17, 67, 54, 76, 72, 50
+Are these correct ?
 
 
 
