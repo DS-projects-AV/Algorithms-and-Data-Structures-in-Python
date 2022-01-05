@@ -65,5 +65,7 @@ Before inserting 18, the balance factor of 45 is 1 right, why is it given -1 her
     
     RL Rotation  If the node is inserted in the left node of a right sub tree
 
+27. ![image](https://user-images.githubusercontent.com/90809823/148269324-f0cafdf9-cc67-4376-8f3c-af5a066cc69f.png)
+    The balance factor of node 45 is not 0, it is 1. In AVL trees, the nodes in the left subtress are considered if there are nno children in its other sub trees. 
 
 
