@@ -50,6 +50,8 @@ Unlike case 2 where only if one child is present, replace it with node to be del
 22. ![image](https://user-images.githubusercontent.com/90809823/148095227-eac2172f-7cc6-44e7-9bd5-0b2846332c9e.png)
 for this tree, ![image](https://user-images.githubusercontent.com/90809823/148095328-986e9971-b04c-417d-836c-c064e623c5f7.png) , the no. of nodes in right subtrees is 5 right? It is not left sub-trees
 23. ![image](https://user-images.githubusercontent.com/90809823/148101282-bcdeb8df-2b07-434a-9573-f0f39e07ecd7.png)
+24. ![image](https://user-images.githubusercontent.com/90809823/148248230-51849cae-0736-4158-b5dd-d1788ad58ff5.png)
+the balance factor is calculated as total number of nodes in its left subtree - total number of nodes in its right subtree. In the second figure, for node 36, nodes in its left subtrees are 27 & 30, and nodes in its right sub tree are 39?
 
 
 
