@@ -52,6 +52,8 @@ for this tree, ![image](https://user-images.githubusercontent.com/90809823/14809
 23. ![image](https://user-images.githubusercontent.com/90809823/148101282-bcdeb8df-2b07-434a-9573-f0f39e07ecd7.png)
 24. ![image](https://user-images.githubusercontent.com/90809823/148248230-51849cae-0736-4158-b5dd-d1788ad58ff5.png)
 the balance factor is calculated as total number of nodes in its left subtree - total number of nodes in its right subtree. In the second figure, for node 36, nodes in its left subtrees are 27 & 30, and nodes in its right sub tree are 39?
+25. ![image](https://user-images.githubusercontent.com/90809823/148259659-986b57cb-15a5-4a4e-87b7-21d4df7adea9.png)
+Before inserting 18, the balance factor of 45 is 1 right, why is it given -1 here ?
 
 
 
