@@ -69,5 +69,6 @@ Before inserting 18, the balance factor of 45 is 1 right, why is it given -1 her
     The balance factor of node 45 is not 0, it is 1. In AVL trees, the nodes in the left subtress are considered if there are nno children in its other sub trees. 
 28. ![image](https://user-images.githubusercontent.com/90809823/148270071-8aca8705-a24c-415b-975e-55e3f0bdc777.png)
     The leaf nodes remain as it is even after rotation. How is balance factor of 45 2?
+29. Heaps - (a) Structural Property - ACBT (b) Ordering Property - Min heap or Max heap
 
 
