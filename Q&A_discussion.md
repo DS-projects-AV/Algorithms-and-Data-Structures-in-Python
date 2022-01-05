@@ -54,6 +54,16 @@ for this tree, ![image](https://user-images.githubusercontent.com/90809823/14809
 the balance factor is calculated as total number of nodes in its left subtree - total number of nodes in its right subtree. In the second figure, for node 36, nodes in its left subtrees are 27 & 30, and nodes in its right sub tree are 39?
 25. ![image](https://user-images.githubusercontent.com/90809823/148259659-986b57cb-15a5-4a4e-87b7-21d4df7adea9.png)
 Before inserting 18, the balance factor of 45 is 1 right, why is it given -1 here ?
+26. Rotations for Insertion :
+    LL Rotation - (a) If the new node is inserted in the left sub tree of a node 
+                  (b) If the left sub tree is heavy
+                  
+    RR Rotation - (a) If the new node is inserted in the right sub tree of a node 
+                  (b) If the right sub tree is heavy
+                  
+    LR Rotation - If the node is inserted in the right node of a left sub tree
+    
+    RL Rotation  If the node is inserted in the left node of a right sub tree
 
 
 
